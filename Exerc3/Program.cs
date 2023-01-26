@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Text.Json;
 
@@ -34,9 +35,9 @@ namespace Exerc3
                 if (d.valor > media) contador++;
             }
 
-            Console.WriteLine(lowest);
-            Console.WriteLine(highest);
-            Console.WriteLine(contador);
+            Console.WriteLine("Menor valor de faturamento: " + lowest.ToString("C", CultureInfo.CurrentCulture));
+            Console.WriteLine("Maior valor de faturamento: " + highest.ToString("C", CultureInfo.CurrentCulture));
+            Console.WriteLine("Número de dias no mês em que o valor de faturamento diário foi superior à média mensal: " + contador);
         }
     }
 }
