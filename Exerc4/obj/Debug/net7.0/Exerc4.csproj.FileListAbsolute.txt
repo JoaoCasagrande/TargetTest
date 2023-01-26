@@ -1,0 +1,15 @@
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.AssemblyInfo.cs
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\bin\Debug\net7.0\Exerc4.exe
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\bin\Debug\net7.0\Exerc4.deps.json
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\bin\Debug\net7.0\Exerc4.runtimeconfig.json
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\bin\Debug\net7.0\Exerc4.dll
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\bin\Debug\net7.0\Exerc4.pdb
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.dll
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\refint\Exerc4.dll
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.pdb
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\Exerc4.genruntimeconfig.cache
+C:\Users\joaog\Desktop\www\TargetTest\Exerc4\obj\Debug\net7.0\ref\Exerc4.dll
